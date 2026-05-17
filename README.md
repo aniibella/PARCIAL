@@ -1,2 +1,4 @@
 # PARCIAL
-Parcial pt.2 / Anabella Marisol Taro Mora
+Anabella Marisol Taro Mora
+Primer Parcial - Informática General 
+Artes Multimediales - UNA
